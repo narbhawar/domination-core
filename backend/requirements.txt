@@ -1,1 +1,5 @@
-Placeholder for requirements.txt
+fastapi
+uvicorn
+openai
+httpx
+python-dotenv
